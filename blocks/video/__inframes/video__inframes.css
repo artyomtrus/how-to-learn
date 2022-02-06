@@ -1,0 +1,6 @@
+.video__inframes {
+  display: flex;
+  justify-content: center;
+  margin: 50px auto -50px;
+  gap: 20px;
+}
